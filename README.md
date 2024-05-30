@@ -3,7 +3,7 @@
 This is simple Arcade Game 
 
 # Demo
-<video controls src="Demo.mp4" title="SPIKEY Game Demo" height=400 width=400></video>
+<video controls src="https://github.com/IMAtendra/SPIKEY/blob/main/Assets/Demo.mp4" title="SPIKEY Game Demo" height=400 width=400></video>
 
 # In Future 
 
